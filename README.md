@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nfa1
-- 👀 I’m interested in software development and data science
+- 👋 Hi, I’m Nilo Alvarado
+- 👀 I’m interested in software development, blockchain and data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
