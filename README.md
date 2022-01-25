@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nilo
-- 👀 I’m interested in software development and data science
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...Twitter
