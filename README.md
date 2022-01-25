@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nfa1
+- 👋 Hi, I’m Nilo
 - 👀 I’m interested in software development and data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
