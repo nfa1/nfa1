@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nilo Alvarado
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...Twitter
+- 💞️ I’m open to collaborating on open source projects
+- 📫 How to reach me ... Twitter
 
 <!---
 nfa1/nfa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
