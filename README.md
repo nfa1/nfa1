@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nilo Alvarado | software engineer 💻 | data scientist 📈 | open source software contributor 🐙
-- 💞️ Currently collaborating with [Robots Building Education](https://robotsbuildingeducation.com/) | [EddieHub Community](https://github.com/EddieHubCommunity) 🟠🐰 
+- 💞️ Currently collaborating with [Robots Building Education](https://robotsbuildingeducation.com/) 🤖🦾👩🏽‍🏫| [EddieHub Community](https://github.com/EddieHubCommunity) 🟠🐰 
 - 📫 Contact me: 🐦 [Twitter](https://twitter.com/nilofalvarado) | 🔗 [MyLinkFree Profile](https://linkfree.io/nfa1)
 
 <!---
