@@ -1,6 +1,6 @@
 - 👋 I’m Nilo | Software Engineer 💻 | Open Source Software Contributor 🐙| Crafting a tech-accelerated future 🌍✨
-- React ⚛️| Python 🐍 | FinTech 💰| AI 🤖
 - 🛠️ Currently building LeetMigo [LeetMigo](https://leetmigo.com/) 👾💻
+- React ⚛️| Python 🐍 | FinTech 💰| AI 🤖
 - 💞️ Currently collaborating with [Robots Building Education](https://robotsbuildingeducation.com/) 🤖👩🏽‍🏫 | [EddieHub Community](https://github.com/EddieHubCommunity) 🟠🐰 
 - 📫 Contact me: 🐦 [Twitter](https://twitter.com/nilofalvarado) | 🔗 [LinkFree](https://linkfree.io/nfa1)
 - ⚡ Fun fact: My prime coding time? After midnight. 🦉
